@@ -1,0 +1,32 @@
+img {
+    height: 3cm;
+    width: 33.8cm;
+}
+h1 {
+    margin: 0cm;
+    color: brown;
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}
+h2 {
+    margin: 0cm;
+}
+p{
+border: 0cm;
+padding: 0cm;
+margin: 0cm
+}
+ul {
+    margin: 0cm;
+}
+.Aboutme {
+    width: 16.5cm;
+    float: right;
+    background-color: beige;
+  }
+  .one {
+    width: 16.5cm;
+    float: left;
+    background-color: beige;
+  }
