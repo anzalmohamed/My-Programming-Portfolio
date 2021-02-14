@@ -8,8 +8,8 @@ The site is developed to show some of my work as a developer.
 ## Known Bugs
 There are currently no bugs with the site.
 ## Built with
-[HTML](used it to write the index.html file/home/anzal/Desktop/my-programming-portfolio/index.html )
-[CSS]
+[Html](/home/anzal/Desktop/my-programming-portfolio/index.html) - used Html to write the index.html file.
+[Css](/home/anzal/Desktop/my-programming-portfolio/css/style.css) css was used to write the style.css file which helped design the website.
 ## How you can contribute!
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
