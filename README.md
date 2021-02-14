@@ -2,6 +2,8 @@
 #### This is a web portfolio showcasing my work.
 ## Description
 The site is developed to show some of my work as a developer.
+## Demo
+Here is a working live demo :  https://anzalmohamed.github.io/My-Programming-Portfolio/
 ## Setup/Installation Requirements
 * Google Chrome
 ## Known Bugs

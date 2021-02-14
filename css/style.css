@@ -11,6 +11,8 @@ h1 {
 }
 h2 {
     margin: 0cm;
+    color: crimson;
+    font-family: cursive;
 }
 p{
 border: 0cm;
@@ -29,4 +31,7 @@ ul {
     width: 16.5cm;
     float: left;
     background-color: beige;
+  }
+  .two {
+      color: brown;
   }
