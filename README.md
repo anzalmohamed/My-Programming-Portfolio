@@ -20,4 +20,4 @@ There are currently no bugs with the site.
 ## Support and contact details
 for any inquiries kindly contact me on my email; anzaldidah@gmail.com
 ### License
-MIT © [Anzal Mohamed](https://github.com/anzalmohamed)
+[MIT](https://github.com/anzalmohamed/My-Programming-Portfolio/blob/master/LICENSE) © [Anzal Mohamed](https://github.com/anzalmohamed)
